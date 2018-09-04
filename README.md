@@ -1,2 +1,2 @@
 # Master
-This is main branch
+This is created for development purpose
